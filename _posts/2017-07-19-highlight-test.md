@@ -1,11 +1,11 @@
 ---
 title: Highlight Test
+description: This page is Highlight test!
 categories:
  - Test
 tags:
 ---
 
-This is a highlight test.
 
 # Normal block
 
