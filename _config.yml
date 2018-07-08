@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: StevenRoger
+title: 游子的博客
 subtitle: 2009zhi.cool@163.com
 description: 自娱自乐也是种境界
 author: 游子
@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, StevenRoger"
+keywords: "游子, StevenRoger"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -93,7 +93,7 @@ rss: false
 authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: true
+# copyright: true
 
 # ---------------------------------------------------------------
 # SEO Settings
