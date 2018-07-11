@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MathJax with Jekyll"
-categories: opinion
+categories: Test
 tags: [resources, jekyll]
 image: http://gastonsanchez.com/images/blog/mathjax_logo.png
 ---
